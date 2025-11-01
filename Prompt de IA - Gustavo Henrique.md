@@ -17,9 +17,6 @@ Por favor, execute as duas tarefas a seguir em ordem, com base no artigo forneci
     * Coesão e fluidez
     * Possíveis erros gramaticais ou de estilo
 
-## 💡 Tarefa 3: Entrega Final
-- Gere este feedback como arquivo .md pronto para download (com formatação completa) e envie.
-
 ---
 
 **O artigo está no arquivo PDF anexado a esta mensagem.**
