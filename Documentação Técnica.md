@@ -87,7 +87,7 @@ Projeto "Frete Já", alterado para atividade de Desenvolvimento Web III, com obj
 ## Print de Tela (Prompt de IA)
 
 *Print de tela do arquivo de prompt:*
-<img width="1960" height="882" alt="PrintPROMPT_IA" src="https://github.com/user-attachments/assets/12b1ba87-03e9-4776-bc8f-e73f02650f77" />
+<img width="1426" height="679" alt="PrintPROMPT_IA2" src="https://github.com/user-attachments/assets/dbaecb63-6027-4d8b-b989-6b6b35316033" />
 
 ## Conteúdo do Arquivo (Prompt de IA - Gustavo Henrique.md) abaixo:
 
