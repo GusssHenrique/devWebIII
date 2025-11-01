@@ -52,4 +52,4 @@ Projeto "Frete Já", alterado para atividade de Desenvolvimento Web III, com obj
 ![kakashi](https://github.com/user-attachments/assets/c17208d2-0ae3-4654-a5b2-6ce9f36ff81a)
 
 
-- ```Para visualizar demais etapas, acesse:``` https://github.com/FatecOsasco/FreteJa
+- _Para visualizar demais etapas, acesse:_ https://github.com/FatecOsasco/FreteJa
