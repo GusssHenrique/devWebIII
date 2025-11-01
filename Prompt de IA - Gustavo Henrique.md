@@ -16,7 +16,7 @@ Por favor, execute as duas tarefas a seguir em ordem, com base no artigo forneci
     * Estrutura e organização do texto
     * Coesão e fluidez
     * Possíveis erros gramaticais ou de estilo
-4. **Formato final:** Gere este feedback como arquivo .md pronto para download (com formatação completa)
+4. **Formato final:** Gere este feedback como arquivo .md pronto para download (com formatação completa).
 
 ---
 
