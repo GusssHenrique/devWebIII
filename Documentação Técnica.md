@@ -13,10 +13,10 @@ Documentação técnica dos arquivos README em Markdown e do prompt de IA associ
 Aqui estão os prints de tela referentes ao arquivo `README.md`.
 
 *Print do Código (Parte 1):*
-<img width="1698" height="834" alt="PrintREADME_Código1" src="https://github.com/user-attachments/assets/ab46d1a3-d96d-46cc-90cb-9546fc535174" />
+<img width="1692" height="939" alt="PrintREADME_Código1" src="https://github.com/user-attachments/assets/f7964b53-9524-4548-b07c-5f130dac2eeb" />
 
 *Print do Código (Parte 2):*
-<img width="1360" height="463" alt="PrintREADME_Código2" src="https://github.com/user-attachments/assets/59d46be2-bfe6-4fd7-8b55-2809571d664e" />
+<img width="1404" height="541" alt="PrintREADME_Código2" src="https://github.com/user-attachments/assets/b4df851b-d1ab-4f55-b5b7-d61b4d3f97de" />
 
 ---
 
@@ -87,7 +87,7 @@ Projeto "Frete Já", alterado para atividade de Desenvolvimento Web III, com obj
 ## Em formato de Código
 
 *Print do código do arquivo de prompt de IA:*
-<img width="1426" height="679" alt="PrintPROMPT_IA2" src="https://github.com/user-attachments/assets/dbaecb63-6027-4d8b-b989-6b6b35316033" />
+<img width="1730" height="820" alt="PrintPROMPT_IA2" src="https://github.com/user-attachments/assets/c83b6323-0d67-4da9-9c72-21508bea7443" />
 
 ## Conteúdo do Arquivo (Prompt de IA - Gustavo Henrique.md) abaixo:
 
