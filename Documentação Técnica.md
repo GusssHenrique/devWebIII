@@ -8,7 +8,7 @@ Documentação técnica dos arquivos README em Markdown e do prompt de IA associ
 
 # *Seção 1: README*
 
-## Prints de Tela (Código)
+## Em formato de Código
 
 Aqui estão os prints de tela referentes ao arquivo `README.md`.
 
@@ -84,9 +84,9 @@ Projeto "Frete Já", alterado para atividade de Desenvolvimento Web III, com obj
 
 # Seção 2: Prompt de IA
 
-## Print de Tela (Prompt de IA)
+## Em formato de Código
 
-*Print de tela do arquivo de prompt:*
+*Print do código do arquivo de prompt de IA:*
 <img width="1426" height="679" alt="PrintPROMPT_IA2" src="https://github.com/user-attachments/assets/dbaecb63-6027-4d8b-b989-6b6b35316033" />
 
 ## Conteúdo do Arquivo (Prompt de IA - Gustavo Henrique.md) abaixo:
