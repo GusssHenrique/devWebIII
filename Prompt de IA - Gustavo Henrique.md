@@ -19,6 +19,4 @@ Por favor, execute as duas tarefas a seguir em ordem, com base no artigo forneci
 
 ---
 
-## Artigo para Análise
-
-[Atividade NoSQL - Gustavo Henrique B. Almeida.pdf](https://github.com/user-attachments/files/23286238/Atividade.NoSQL.-.Gustavo.Henrique.B.Almeida.pdf)
+**O artigo está no arquivo PDF anexado a esta mensagem.**
