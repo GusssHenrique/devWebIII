@@ -12,7 +12,7 @@ Projeto "Frete Já", alterado para atividade de Desenvolvimento Web III, com obj
 ## ✍ Logotipo e Paleta de Cores do projeto FreteJá
 <img width="8000" height="4500" alt="logotipo_paleta" src="https://github.com/user-attachments/assets/aece347d-6954-423f-8d45-e102a89cca3f" />
 
-## 🖥 Protóripo de baixa fidelidade
+## 🖥 Protótipo de baixa fidelidade
 - **Link:** https://www.figma.com/proto/ZZEcLVEwu88uCDBZC2FLZx/FreteJa---Prot%C3%B3tipo-baixa?node-id=0-1&t=nRYipD5IRGrwEStj-1
 - **Prints:**
 <img width="1440" height="1483" alt="Tela Home" src="https://github.com/user-attachments/assets/53972e05-f6ef-4992-87ce-b163fdbdc267" />
